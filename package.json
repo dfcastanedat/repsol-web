@@ -1,0 +1,14 @@
+{
+  "name": "repsol-web",
+  "version": "1.0.0",
+  "description": "Web page project from Repsol",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "repsol"
+  ],
+  "author": "Sara",
+  "license": "MIT"
+}
