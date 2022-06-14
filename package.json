@@ -3,12 +3,19 @@
   "version": "1.0.0",
   "description": "Web page project from Repsol",
   "main": "index.js",
+  "type": "module",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node index.js"
   },
   "keywords": [
     "repsol"
   ],
   "author": "Sara",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.1"
+  },
+  "engines": {
+    "node": "14.15.0"
+  }
 }
